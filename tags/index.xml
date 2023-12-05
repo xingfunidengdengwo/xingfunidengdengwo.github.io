@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - 小周的博客</title>
+        <link>https://xingfunidengdengwo.github.io/tags/</link>
+        <description>Tags - 标签 - 小周的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2152288649@qq.com (小周)</managingEditor>
+            <webMaster>2152288649@qq.com (小周)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 05 Dec 2023 17:20:06 &#43;0800</lastBuildDate><atom:link href="https://xingfunidengdengwo.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>HTML</title>
+    <link>https://xingfunidengdengwo.github.io/tags/html/</link>
+    <pubDate>Tue, 05 Dec 2023 17:20:06 &#43;0800</pubDate>
+    <author>小周</author>
+    <guid>https://xingfunidengdengwo.github.io/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://xingfunidengdengwo.github.io/tags/markdown/</link>
+    <pubDate>Tue, 05 Dec 2023 17:20:06 &#43;0800</pubDate>
+    <author>小周</author>
+    <guid>https://xingfunidengdengwo.github.io/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

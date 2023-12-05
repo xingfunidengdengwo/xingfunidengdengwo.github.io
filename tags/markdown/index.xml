@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - 标签 - 小周的博客</title>
+        <link>https://xingfunidengdengwo.github.io/tags/markdown/</link>
+        <description>Markdown - 标签 - 小周的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2152288649@qq.com (小周)</managingEditor>
+            <webMaster>2152288649@qq.com (小周)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 05 Dec 2023 17:20:06 &#43;0800</lastBuildDate><atom:link href="https://xingfunidengdengwo.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown 语法示例</title>
+    <link>https://xingfunidengdengwo.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Tue, 05 Dec 2023 17:20:06 &#43;0800</pubDate>
+    <author>小周</author>
+    <guid>https://xingfunidengdengwo.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
+</item>
+</channel>
+</rss>
